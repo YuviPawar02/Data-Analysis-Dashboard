@@ -6,6 +6,9 @@ This project features an interactive E-commerce Sales Dashboard built using Powe
 - <a href="https://github.com/YuviPawar02/Data-Analysis-Dashboard/blob/main/README.md">Order Data</a>
 - <a href="https://github.com/YuviPawar02/Data-Analysis-Dashboard/blob/main/Details.csv">Details Data</a>
 
+## Dashboard
+- <a href="https://github.com/YuviPawar02/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-24%20093258.jpg">Details Data</a>
+
 ## key Features
 - Total Sales, Profit, Quantity, and Average Order Value (AOV)
 - Sales breakdown by State, Customer, and Category
