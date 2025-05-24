@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-A Power BI dashboard that visualizes key insights from e-commerce sales data, including profit trends, top-performing states, product categories, and customer analysis.
+# Ecommerce Data Analysis Dashboard
+## Project Overview
+This project features an interactive E-commerce Sales Dashboard built using Power BI. It provides a comprehensive overview of sales performance across various dimensions such as state, category, customer, payment modes, and time periods.
